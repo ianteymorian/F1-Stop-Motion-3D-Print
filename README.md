@@ -37,3 +37,10 @@ This repository includes:
 ## Purpose
 
 The purpose of this project was to combine 3D printing, stop motion animation, and video editing to produce a short Formula 1-themed animation.
+
+## Video
+
+The completed F1 stop motion animation can be viewed using the link below:
+
+https://drive.google.com/file/d/1_CJkia6Z-XrCrJrwVEjEedp_fyjTJLpc/view?usp=drive_link
+
